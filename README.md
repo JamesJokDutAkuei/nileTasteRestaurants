@@ -47,3 +47,8 @@ NileTaste is a web application designed to improve accessibility and discoverabi
 - Images provided by pinterest
 - Icons from font awaresome
 - Fonts from Google Fonts
+
+## Test or Run nileTaste
+
+- Run `npm install` and
+- Run `npm run build`
